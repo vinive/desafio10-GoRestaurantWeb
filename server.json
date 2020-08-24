@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
@@ -23,6 +15,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Macarón France",
+      "price": "19,90",
+      "description": "Um prato de comida com muito tompero",
+      "available": true,
+      "id": 4
     }
   ]
 }
